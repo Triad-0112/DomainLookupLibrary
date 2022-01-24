@@ -11,16 +11,27 @@ Input : mastery
 
 
 > mastery
+>
 > commndhq.com X
+> 
 > controlpp.net X
+> 
 > dominationsite.net X
+> 
 > gosupremacy.com X
+> 
 > letssubordinatin.com X
+> 
 > getasceendance.net X
+> 
 > getasceendancy.net X
+> 
 > ascendenc.com X
+> 
 > letsascendency.com X
+> 
 > dominance.com X
+> 
 > goskllfulness.com X
 
 
