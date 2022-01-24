@@ -3,11 +3,13 @@ Run in BASH:
 
 `
 ./synonyms/synonyms.exe | ./sprinkle/sprinkle.exe | ./coolify/coolify.exe | ./domainify/domainify.exe
-
+`
 Then input any one word text on it:
 It will make list of a website similiar to your example :
+
 Input : mastery
 
+`
 mastery
 commndhq.com X
 controlpp.net X
