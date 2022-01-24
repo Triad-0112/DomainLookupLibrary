@@ -20,6 +20,5 @@ ascendenc.com X
 letsascendency.com X
 dominance.com X
 goskllfulness.com X
-
 `
 
